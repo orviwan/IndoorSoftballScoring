@@ -1,0 +1,27 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "stevekennedyuk",
+    "longName": "IndoorSS",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/iss.png",
+                "menuIcon": true,
+                "name": "ISS_IMAGE",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "IndoorScoring",
+    "uuid": "6db89f1e-a1fd-491e-abb5-7abf6fed9e83",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
